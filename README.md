@@ -16,8 +16,8 @@ Run the following commands to download the models:
 ```bash
 huggingface-cli download --resume-download meta-llama/Llama-3.1-8B-Instruct --local-dir {MODEL_DIR_ROOT}/meta-llama/Llama-3.1-8B-Instruct
 huggingface-cli download --resume-download intfloat/multilingual-e5-large --local-dir {MODEL_DIR_ROOT}/intfloat/multilingual-e5-large
-Replace {MODEL_DIR_ROOT} with the path where you typically store Hugging Face model weights on your computer.
 ```
+Replace {MODEL_DIR_ROOT} with the path where you typically store Hugging Face model weights on your computer.
 
 ### 2. Install Dependencies
 Create new conda environments and install the required dependencies:
