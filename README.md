@@ -1,6 +1,6 @@
 # Meta-Tool: Unleash Open-World Function Calling Capabilities of General-Purpose Large Language Models
 
-This repository contains the code and resources for the **Meta-Tool** project, which aims to enhance the open-world function calling capabilities of general-purpose large language models (LLMs). Below, you will find instructions on how to set up and use the software, as well as how to evaluate the model's performance on the Meta-Bench benchmark. Please download our lora weight from https://huggingface.co/Shengqian12138/meta-tool-lora and our benchmark from https://huggingface.co/Shengqian12138/Meta-Bench.
+This repository contains the code and resources for the **Meta-Tool** project, which aims to enhance the open-world function calling capabilities of general-purpose large language models (LLMs). Below, you will find instructions on how to set up and use the software, as well as how to evaluate the model's performance on the Meta-Bench benchmark. Please download our lora weight from https://huggingface.co/Shengqian12138/meta-tool-lora and our benchmark from https://huggingface.co/datasets/Shengqian12138/Meta-Bench.
 
 ## Setup Instructions
 
